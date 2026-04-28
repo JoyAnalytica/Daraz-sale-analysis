@@ -37,3 +37,54 @@
 ❌ Reduce cancellations by strengthening the order confirmation system.
 🔁 Analyze returns to identify root causes.
 📦 Focus on high-performing categories such as Electronics and Automotive.
+
+
+<img width="1450" height="807" alt="image" src="https://github.com/user-attachments/assets/7a8052c2-b06c-4b36-a626-e652c79da76a" />
+
+  Product Dashboard — Product & Customer Analysis
+
+  🔹 Overall Metrics
+| Metric             | Value |
+| ------------------ | ----- |
+| 📦 Total Quantity  | 4K    |
+| 📈 Monthly Growth  | 0.2%  |
+| 🗂️ Category Types | 7     |
+| 💰 Avg Revenue     | 1000  |
+
+🔹 Top Products & Customers
+| Top Product         | Revenue | Top Customer   | Revenue |
+| ------------------- | ------- | -------------- | ------- |
+| Smart Watch         | 25K     | Deborah Garcia | 4.0K    |
+| Sleek Laptop        | 25K     | David Smith    | 3.8K    |
+| Modern Jeans        | 25K     | Daniel Jones   | 3.7K    |
+| Innovative Smart... | 24K     | Stacy Hayes    | 3.5K    |
+| Budget Sneakers     | 22K     | Jennifer Ellis | 3.5K    |
+
+🔹 Seller & Transaction Details
+| Seller Name                 | Price    | Payment Method   | Customer City      |
+| --------------------------- | -------- | ---------------- | ------------------ |
+| Taylor, Davila and Davis    | 1,994.39 | Debit Card       | West Peterburgh    |
+| Gross Ltd                   | 1,990.98 | Debit Card       | Lake Jonathan      |
+| Brown-Joseph                | 1,973.95 | Online Banking   | Thomasbury         |
+| Sanchez-Howard              | 1,966.89 | Cash On Delivery | Joshuashire        |
+| Avila, Peterson and Duncan  | 1,800.28 | Debit Card       | Mejiafurt          |
+| Peterson-Ward               | 1,761.77 | Online Banking   | Ronaldberg         |
+| Trujillo, Harris and Rivers | 1,753.45 | Online Banking   | Turnerville        |
+| Brown-Foley                 | 1,675.55 | Online Banking   | Andreaborough      |
+| Williams-Kelley             | 1,535.19 | Cash On Delivery | New Barry          |
+| Mccoy-Beltran               | 1,500.14 | Cash On Delivery | South Frederick    |
+| Butler-Miller               | 499.01   | Debit Card       | Lake Jennifershire |
+
+🧠 Key Insights
+📦 A small number of products are generating the highest revenue (top 5 dominate).
+👥 Top customers contribute significantly but revenue is not highly concentrated.
+💳 Debit Card and Online Banking are the most frequently used payment methods.
+📉 Monthly growth is very low (0.2%), indicating slow business expansion.
+🚀 Recommendations
+📈 Improve growth by launching promotions or marketing campaigns.
+🎯 Focus on top-performing products to maximize revenue.
+👥 Build loyalty programs for high-value customers.
+💳 Encourage digital payments to streamline transactions.
+
+
+
