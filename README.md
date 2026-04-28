@@ -86,5 +86,49 @@
 👥 Build loyalty programs for high-value customers.
 💳 Encourage digital payments to streamline transactions.
 
+<img width="1450" height="799" alt="image" src="https://github.com/user-attachments/assets/9e4c7bf4-796e-4e2c-93b8-45c5df6f700b" />
 
+Customer Dashboard — Cancellation & Return Analysis
+🔹 Overall Metrics
+| Metric               | Value |
+| -------------------- | ----- |
+| ❌ Cancelled Orders   | 341   |
+| 📉 Cancellation Rate | 24%   |
+| 🔁 Returned Orders   | 353   |
+| 📦 Return Rate       | 25%   |
 
+🔹 Customer Transaction Details
+| Customer City          | Customer Name     | Price            |
+| ---------------------- | ----------------- | ---------------- |
+| Aaronburgh             | Amy Boyer         | 1,600.52         |
+| Aaronburgh             | Cameron Odonnell  | 990.85           |
+| Aaronfort              | Nicholas Williams | 888.16           |
+| Abbottton              | Scott Proctor     | 978.15           |
+| Adamsfort              | Christopher Johns | 768.33           |
+| Adamtown               | Ian Wright        | 1,728.18         |
+| Adkinsmouth            | Lisa Baker        | 1,054.00         |
+| Aguilarmouth           | Rebecca Navarro   | 1,906.08         |
+| Alexanderborough       | Dorothy May       | 825.03           |
+| Alexandermouth         | Jennifer Kirk     | 1,568.37         |
+| Alexland               | David Cummings    | 1,577.64         |
+| Alicetown              | Nicole Rivas      | 729.79           |
+| Aliciabury             | Steven Stephens   | 1,473.74         |
+| Alishaview             | Bradley Dawson    | 1,785.03         |
+| Allenport              | April Johnston    | 1,876.39         |
+| Alvaradoborough        | Karen Knapp       | 1,531.56         |
+| Alvaradobury           | James Cooper      | 1,934.06         |
+| Alvaradofort           | Beverly Duffy     | 473.26           |
+| Alvarezland            | Laurie Lozano     | 1,054.71         |
+| Amandafurt             | Elizabeth Watson  | 34.58            |
+| **Total (All Cities)** | —                 | **1,399,824.00** |
+
+🧠 Key Insights
+📉 Cancellation (24%) and return rates (25%) are both significantly high.
+⚖️ Returns slightly exceed cancellations, indicating potential product or quality issues.
+🌍 Orders are distributed across multiple cities, showing a wide customer base.
+💰 Some transactions have very high values, while a few are extremely low, indicating pricing or order inconsistencies.
+🚀 Recommendations
+❌ Investigate the main causes of cancellations (e.g., delivery delays, payment issues).
+🔁 Analyze return reasons (e.g., product quality, mismatch, defects).
+📦 Improve product descriptions and quality control to reduce returns.
+🚚 Enhance logistics and delivery timelines to minimize cancellations.
