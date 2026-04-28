@@ -80,6 +80,7 @@
 👥 Top customers contribute significantly but revenue is not highly concentrated.
 💳 Debit Card and Online Banking are the most frequently used payment methods.
 📉 Monthly growth is very low (0.2%), indicating slow business expansion.
+
 🚀 Recommendations
 📈 Improve growth by launching promotions or marketing campaigns.
 🎯 Focus on top-performing products to maximize revenue.
@@ -127,6 +128,7 @@ Customer Dashboard — Cancellation & Return Analysis
 ⚖️ Returns slightly exceed cancellations, indicating potential product or quality issues.
 🌍 Orders are distributed across multiple cities, showing a wide customer base.
 💰 Some transactions have very high values, while a few are extremely low, indicating pricing or order inconsistencies.
+
 🚀 Recommendations
 ❌ Investigate the main causes of cancellations (e.g., delivery delays, payment issues).
 🔁 Analyze return reasons (e.g., product quality, mismatch, defects).
