@@ -1,0 +1,128 @@
+
+<style>
+.wrap{padding:16px 0;font-size:14px;color:var(--color-text-primary)}
+h2{font-size:18px;font-weight:500;margin:24px 0 8px;color:var(--color-text-primary)}
+h2:first-child{margin-top:0}
+.badge{display:inline-block;padding:2px 10px;border-radius:20px;font-size:12px;font-weight:500;margin-bottom:10px}
+.b-blue{background:var(--color-background-info);color:var(--color-text-info)}
+.b-green{background:var(--color-background-success);color:var(--color-text-success)}
+.b-warn{background:var(--color-background-warning);color:var(--color-text-warning)}
+table{width:100%;border-collapse:collapse;margin-bottom:24px;font-size:13px}
+th{background:var(--color-background-secondary);font-weight:500;padding:8px 12px;text-align:left;border-bottom:1px solid var(--color-border-secondary)}
+td{padding:7px 12px;border-bottom:1px solid var(--color-border-tertiary);color:var(--color-text-secondary)}
+tr:last-child td{border-bottom:none;font-weight:500;color:var(--color-text-primary)}
+.kpi-row{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:20px}
+.kpi{background:var(--color-background-secondary);border-radius:10px;padding:12px 14px;border:1px solid var(--color-border-tertiary)}
+.kpi .val{font-size:22px;font-weight:500;color:var(--color-text-primary)}
+.kpi .lbl{font-size:11px;color:var(--color-text-tertiary);margin-top:2px}
+</style>
+<div class="wrap">
+
+<h2>📊 Table 1 — Overview Page</h2>
+<span class="badge b-blue">Overall Sales Summary</span>
+<div class="kpi-row">
+  <div class="kpi"><div class="val">1.40M</div><div class="lbl">Total Revenue</div></div>
+  <div class="kpi"><div class="val">1K</div><div class="lbl">Total Orders</div></div>
+  <div class="kpi"><div class="val">375</div><div class="lbl">Total Deliveries</div></div>
+  <div class="kpi"><div class="val">27%</div><div class="lbl">Delivery Rate</div></div>
+</div>
+
+<table>
+  <thead><tr><th>Category</th><th>Revenue</th><th>Payment Method</th><th>Amount</th></tr></thead>
+  <tbody>
+    <tr><td>Electronics</td><td>232K</td><td>Online Banking</td><td>359.35K</td></tr>
+    <tr><td>Automotive</td><td>217K</td><td>Cash On</td><td>349.83K</td></tr>
+    <tr><td>Sports</td><td>204K</td><td>Credit Card</td><td>347.70K</td></tr>
+    <tr><td>Beauty</td><td>198K</td><td>Debit Card</td><td>342.94K</td></tr>
+    <tr><td>Books</td><td>194K</td><td>—</td><td>—</td></tr>
+    <tr><td>Home Appliances</td><td>178K</td><td>—</td><td>—</td></tr>
+    <tr><td>Fashion</td><td>177K</td><td>—</td><td>—</td></tr>
+  </tbody>
+</table>
+
+<table>
+  <thead><tr><th>Order Status</th><th>Revenue</th><th>Quarter</th><th>Share</th></tr></thead>
+  <tbody>
+    <tr><td>Delivered</td><td>370K</td><td>Qtr 1</td><td>26%</td></tr>
+    <tr><td>Cancelled</td><td>358K</td><td>Qtr 2</td><td>25%</td></tr>
+    <tr><td>Returned</td><td>343K</td><td>Qtr 3</td><td>26%</td></tr>
+    <tr><td>Pending</td><td>328K</td><td>Qtr 4</td><td>23%</td></tr>
+    <tr><td>Total</td><td>1.40M</td><td>—</td><td>100%</td></tr>
+  </tbody>
+</table>
+
+<h2>📦 Table 2 — Product Page</h2>
+<span class="badge b-green">Product & Customer Analysis</span>
+<div class="kpi-row">
+  <div class="kpi"><div class="val">4K</div><div class="lbl">Total Quantity</div></div>
+  <div class="kpi"><div class="val">0.2%</div><div class="lbl">Monthly Growth %</div></div>
+  <div class="kpi"><div class="val">7</div><div class="lbl">Type of Category</div></div>
+  <div class="kpi"><div class="val">1000</div><div class="lbl">Average Revenue</div></div>
+</div>
+
+<table>
+  <thead><tr><th>Top Product</th><th>Revenue</th><th>Top Customer</th><th>Revenue</th></tr></thead>
+  <tbody>
+    <tr><td>Smart Watch</td><td>25K</td><td>Deborah Garcia</td><td>4.0K</td></tr>
+    <tr><td>Sleek Laptop</td><td>25K</td><td>David Smith</td><td>3.8K</td></tr>
+    <tr><td>Modern Jeans</td><td>25K</td><td>Daniel Jones</td><td>3.7K</td></tr>
+    <tr><td>Innovative Smart...</td><td>24K</td><td>Stacy Hayes</td><td>3.5K</td></tr>
+    <tr><td>Budget Sneakers</td><td>22K</td><td>Jennifer Ellis</td><td>3.5K</td></tr>
+  </tbody>
+</table>
+
+<table>
+  <thead><tr><th>Seller Name</th><th>Price</th><th>Payment Method</th><th>Customer City</th></tr></thead>
+  <tbody>
+    <tr><td>Taylor, Davila and Davis</td><td>1,994.39</td><td>Debit Card</td><td>West Peterburgh</td></tr>
+    <tr><td>Gross Ltd</td><td>1,990.98</td><td>Debit Card</td><td>Lake Jonathan</td></tr>
+    <tr><td>Brown-Joseph</td><td>1,973.95</td><td>Online Banking</td><td>Thomasbury</td></tr>
+    <tr><td>Sanchez-Howard</td><td>1,966.89</td><td>Cash On</td><td>Joshuashire</td></tr>
+    <tr><td>Avila, Peterson and Duncan</td><td>1,800.28</td><td>Debit Card</td><td>Mejiafurt</td></tr>
+    <tr><td>Peterson-Ward</td><td>1,761.77</td><td>Online Banking</td><td>Ronaldberg</td></tr>
+    <tr><td>Trujillo, Harris and Rivers</td><td>1,753.45</td><td>Online Banking</td><td>Turnerville</td></tr>
+    <tr><td>Brown-Foley</td><td>1,675.55</td><td>Online Banking</td><td>Andreaborough</td></tr>
+    <tr><td>Williams-Kelley</td><td>1,535.19</td><td>Cash On</td><td>New Barry</td></tr>
+    <tr><td>Mccoy-Beltran</td><td>1,500.14</td><td>Cash On</td><td>South Frederick</td></tr>
+    <tr><td>Butler-Miller</td><td>499.01</td><td>Debit Card</td><td>Lake Jennifershire</td></tr>
+    <tr><td>Total</td><td>18,451.60</td><td>Cash On</td><td>Andreaborough</td></tr>
+  </tbody>
+</table>
+
+<h2>👥 Table 3 — Customer Page</h2>
+<span class="badge b-warn">Cancellation & Return Analysis</span>
+<div class="kpi-row">
+  <div class="kpi"><div class="val">341</div><div class="lbl">Cancelled Orders</div></div>
+  <div class="kpi"><div class="val">24%</div><div class="lbl">Cancellation Rate</div></div>
+  <div class="kpi"><div class="val">353</div><div class="lbl">Returned Orders</div></div>
+  <div class="kpi"><div class="val">25%</div><div class="lbl">Return Rate</div></div>
+</div>
+
+<table>
+  <thead><tr><th>Customer City</th><th>Customer Name</th><th>Price</th></tr></thead>
+  <tbody>
+    <tr><td>Aaronburgh</td><td>Amy Boyer</td><td>1,600.52</td></tr>
+    <tr><td>Aaronburgh</td><td>Cameron Odonnell</td><td>990.85</td></tr>
+    <tr><td>Aaronfort</td><td>Nicholas Williams</td><td>888.16</td></tr>
+    <tr><td>Abbottton</td><td>Scott Proctor</td><td>978.15</td></tr>
+    <tr><td>Adamsfort</td><td>Christopher Johns</td><td>768.33</td></tr>
+    <tr><td>Adamtown</td><td>Ian Wright</td><td>1,728.18</td></tr>
+    <tr><td>Adkinsmouth</td><td>Lisa Baker</td><td>1,054.00</td></tr>
+    <tr><td>Aguilarmouth</td><td>Rebecca Navarro</td><td>1,906.08</td></tr>
+    <tr><td>Alexanderborough</td><td>Dorothy May</td><td>825.03</td></tr>
+    <tr><td>Alexandermouth</td><td>Jennifer Kirk</td><td>1,568.37</td></tr>
+    <tr><td>Alexland</td><td>David Cummings</td><td>1,577.64</td></tr>
+    <tr><td>Alicetown</td><td>Nicole Rivas</td><td>729.79</td></tr>
+    <tr><td>Aliciabury</td><td>Steven Stephens</td><td>1,473.74</td></tr>
+    <tr><td>Alishaview</td><td>Bradley Dawson</td><td>1,785.03</td></tr>
+    <tr><td>Allenport</td><td>April Johnston</td><td>1,876.39</td></tr>
+    <tr><td>Alvaradoborough</td><td>Karen Knapp</td><td>1,531.56</td></tr>
+    <tr><td>Alvaradobury</td><td>James Cooper</td><td>1,934.06</td></tr>
+    <tr><td>Alvaradofort</td><td>Beverly Duffy</td><td>473.26</td></tr>
+    <tr><td>Alvarezland</td><td>Laurie Lozano</td><td>1,054.71</td></tr>
+    <tr><td>Amandafurt</td><td>Elizabeth Watson</td><td>34.58</td></tr>
+    <tr><td>Total (All Cities)</td><td>—</td><td>1,399,824.00</td></tr>
+  </tbody>
+</table>
+
+</div>
